@@ -1,0 +1,5 @@
+﻿  UnitTest 7.1-1.cpp
+D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Project 7.1-1(рекурсія).cpp(63): warning C4715: 'NumberIndex': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Project 7.1-1(рекурсія).cpp(50): warning C4715: 'Sum': not all control paths return a value
+     Creating library D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Debug\UnitTest 7.1-1.lib and object D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Debug\UnitTest 7.1-1.exp
+  UnitTest 7.1-1.vcxproj -> D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Debug\UnitTest 7.1-1.dll
