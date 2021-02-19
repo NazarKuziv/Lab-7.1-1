@@ -1,0 +1,4 @@
+﻿  Project 7.1-1(рекурсія).cpp
+D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Project 7.1-1(рекурсія).cpp(63): warning C4715: 'NumberIndex': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Project 7.1-1(рекурсія).cpp(50): warning C4715: 'Sum': not all control paths return a value
+  Project 7.1-1(рекурсія).vcxproj -> D:\ddpu\алгоритмізація\Коди\Project 7.1-1(рекурсія)\Debug\Project 7.1-1(рекурсія).exe
